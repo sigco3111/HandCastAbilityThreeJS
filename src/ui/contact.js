@@ -55,30 +55,30 @@ export const CONTACT_MARKUP = `
   <div class="hud__contact" data-contact>
     <div class="contact">
       <button class="contact__toggle" type="button" data-contact-toggle
-        aria-label="Hide the contact card" title="Hide">
+        aria-label="명함 숨기기" title="숨기기">
         <span class="contact__toggle-bar"></span>
       </button>
 
       <div class="contact__head">
         <div class="contact__portrait">
           <span class="contact__frame">
-            <img src="./contact/p.jpg" alt="Portrait of Chiro" decoding="async" draggable="false" />
+            <img src="./contact/p.jpg" alt="Chiro 초상" decoding="async" draggable="false" />
           </span>
         </div>
         <div class="contact__who">
-          <span class="contact__status"><i></i>Available for work</span>
+          <span class="contact__status"><i></i>작업 가능</span>
           <span class="contact__name">Chiro</span>
-          <span class="contact__role">Creative dev &mdash; 3D, motion, games</span>
+          <span class="contact__role">크리에이티브 개발 &mdash; 3D·모션·게임</span>
         </div>
       </div>
 
       <p class="contact__note">
-        Every ability, shader and tool in this scene is hand-written. Yours could be too.
+        이 장면의 모든 능력·셰이더·도구는 수작업입니다. 의뢰해 보세요.
       </p>
 
       <div class="contact__links">
-        ${link(X_URL, 'contact__link--x', ICON_X, '@chirovisuals', 'Work in motion, daily')}
-        ${link(SITE_URL, 'contact__link--site', ICON_SITE, 'chirostudio.xyz', 'Portfolio &amp; contact')}
+        ${link(X_URL, 'contact__link--x', ICON_X, '@chirovisuals', '매일 움직이는 작업물')}
+        ${link(SITE_URL, 'contact__link--site', ICON_SITE, 'chirostudio.xyz', '포트폴리오·연락처')}
       </div>
     </div>
   </div>
@@ -138,9 +138,9 @@ export class ContactCard {
     this._collapsed = collapsed;
     this.root?.classList.toggle('is-collapsed', collapsed);
     if (this.toggle) {
-      const label = collapsed ? 'Show the contact card' : 'Hide the contact card';
+      const label = collapsed ? '명함 보이기' : '명함 숨기기';
       this.toggle.setAttribute('aria-label', label);
-      this.toggle.title = collapsed ? 'Work with me' : 'Hide';
+      this.toggle.title = collapsed ? '함께 작업하기' : '숨기기';
     }
     if (!silent) writeCollapsed(collapsed);
   }
