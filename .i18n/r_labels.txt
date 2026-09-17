@@ -1,0 +1,1045 @@
+... more as it dies
+... more toward the tail
+...at the graze
+S-bend swing
+aims at (body height)
+aims at (of height)
+aims up the body
+air drag
+air scale
+along the heading
+ambient
+animation speed
+apart, metres
+appears ahead by (m)
+appears at (m)
+arm length
+arrival rumble
+arrives in
+assembles over (s)
+aura
+aura sparseness
+aura stand-off (m)
+auto framing
+axis + satellites
+backwards along the path
+ball falloff
+ball radius, x
+band bias out/in
+band glow
+band height (m)
+band seat
+band thickness
+band width (m)
+bands inside it
+bank (rad)
+bank rate
+barrier radius (m)
+base radius (m)
+base ring radius
+base ring width
+bead drift round
+bead lifetime
+bead rate
+bead rise
+bead size
+bead speed
+beading
+beads off the hand
+beads off the seed
+beads on ignition
+beads out of the wound
+beads over the strand
+bend
+bends per lap
+between bodies (s)
+between targets (s)
+between them (s)
+bird light radius
+birth cools over
+birth flash
+blade height (m)
+blade lean (rad)
+blade ring, x footprint
+blend back to idle
+blend into cast
+blink speed
+bloom intensity
+bloom radius
+bloom threshold
+blow, back
+blow, torque
+blow, up
+bob (m)
+bobs/s
+body
+body burnt / second
+body glow
+body radius
+body roll-off
+body roll-off (keeps it matter)
+body softness
+born at (× radius)
+born within (m)
+bounce
+boundary ticks
+bow at the head, x
+bow at the tail (m)
+bow radius, x
+bow wave
+bow width
+break-up
+break-up rumble
+break-up scale
+breaks over (s)
+breath
+breath speed
+breathes
+bright mote intensity
+bright mote size (m)
+bright motes (fraction)
+buoyancy
+burn detail
+burn glow
+burn line glow
+burn line width
+burn width
+burns away, seconds
+burns out over (s)
+burnt rim glow
+burst (m)
+camera shake
+cast speed
+caustic climb (m/s)
+caustic light
+cell bias
+cell by cell
+centre mark
+centre size
+chaos scale
+chaos speed
+charge along it
+charge bands
+charge glow
+charge sharpness
+charge speed
+charge speed (+ to the point)
+charges over it
+chevron depth
+chevron sharpness
+chevrons / metre
+chips
+chromatic aberration
+churn scale
+churn speed
+circle radius
+clear glass body
+clear ice body
+clear roughness
+cleavage planes
+cleavage scale
+climbs at (m/s)
+climbs over (s)
+coil radius (m)
+coil speed
+coil widens by
+cold light in it
+comes apart over
+comes off ahead by (m)
+comes onto a body in (s)
+cone
+contact shadow
+contour rings
+contrast
+converges at the ends
+cooldown
+cooldown after recall
+core (K)
+core strength
+core thread
+core tightness
+core weight
+corner rounding
+corruption climb
+corruption glow
+corruption scale
+corruption sharpness
+count
+crack cells per metre
+crack depth (m)
+crack glow
+crack light
+crack width
+crack width (m)
+cracks per metre
+cracks reach
+cracks run out to
+cracks run over (s)
+creep rumble
+crest tear
+crown falls over
+crown hangs for
+crown height (m)
+crown rises over
+crown seat, x footprint
+cruise height (m)
+crystal light
+crystal light radius
+crystal light shimmer
+crystals
+crystals start at
+curl (m/s)
+curl scale
+curl speed
+darkening
+dash creep
+dash gap
+dashes
+dead zone
+density
+deploys over (s)
+depth tint
+desaturate
+diagonal rays
+dispersion
+dispersion (rad)
+dissolve over (s)
+dissolves at
+distance
+dive and back (s)
+dive pitch (rad)
+drag
+drawn out at most, x
+drawn out per m/s
+drifts out at (m/s)
+droplet glow
+droplet gravity
+droplet life
+droplet lifetime
+droplet opacity
+droplet size
+droplet speed
+droplet stretch
+droplets
+droplets/second
+dust in the beam
+dust scale
+eaten by noise
+eaten into streamers
+eaten through
+edge (K)
+edge falloff
+edge glow
+edge softness
+ember life (s)
+ember lift
+ember size
+embers in the crust
+embers per metre
+embers thrown up
+embers/s lifting
+embers/s off each head
+embers/s off the bird
+embers/s over the field
+emission
+emission rate
+emissive master
+emitters seed over (m)
+engages within (m)
+env (IBL)
+erosion scale
+erosion speed
+etched from
+exposure
+facet glint blinks
+facet hairline
+facet lift
+facet roughness
+facet seam glow
+facet seam width
+facet steps
+facets
+facets per radius
+fade time
+fades toward the floor
+falling lean
+far-cast footprint
+feather edges flicker
+fibre scale
+fibre speed
+fibres
+field of view
+field radius (m)
+filament crawl
+filaments
+filaments / metre
+fill falloff
+film grain
+finger depth
+fingers
+fireballs per body
+fires within (rad)
+first beam after
+first body at (s)
+first-to-last lag
+flake radius (m)
+flakes per radius
+flame scale (1/m)
+flames climb (m/s)
+flames move the heat
+flap rate
+flare (>1 horn)
+flare at target
+flare length
+flare reach
+flares
+flares as it acts
+flash
+flash ignites at
+flash light reach
+flash lights over
+flash off the beak (m)
+flash on release
+flash when it comes away
+flash when struck off
+flesh goes after
+flicker
+flicker depth
+flicker speed
+flight rumble
+flight speed (m/s)
+flips (turns/s)
+floating dust
+floor dust (particles/s)
+floor dust size
+floor glow
+floor light
+floor light radius
+floor mark intensity
+floor mark life
+floor pool (m)
+floor ring, x footprint
+flow
+fog far
+fog near
+follow damping
+foot ring
+footprint radius
+forwards, on the strike
+fracture depth (m)
+fracture planes inside
+fracture scale
+fracture width
+fragments on the way out
+frays from
+freezes over (s)
+fresnel
+fresnel strength
+friction
+fringe shred
+frost climbs over (s)
+frost etched on the rear
+frost noise
+frost off the rim
+frost opacity
+frost plates
+frost reaches (× radius)
+frost roughness
+frost scale
+frost starts at
+frosted
+gain
+gap at the caster
+gap between pieces (m)
+gas hangs back
+gems
+girdle radius (m)
+glare at the point (m)
+glare intensity
+glare ray reach, x
+glass coat
+glass highlight
+glass off the barrier/s
+glint chance
+glint core tightness
+glint drift
+glint glow
+glint intensity
+glint life (s)
+glint lifetime
+glint lift
+glint rate
+glint ray thinness
+glint rays
+glint reach, x the shard
+glint scale
+glint size
+glint soft fade (m)
+glint speed
+glints
+glints out of it
+glints thrown up
+glints/s
+glitter
+glow
+glow intensity
+glyph flicker
+glyph glow
+glyphs
+gout as the floor breaks
+gout as the floor freezes
+gout of fire (m)
+grade
+graduations
+grain scale
+gravity
+ground bounce
+ground friction
+grow at (s)
+grow out over (s)
+grow over (s)
+grows out of the hand over
+gutter
+gutter speed
+hairline (px)
+hairline cracks
+half-angle (deg)
+halo
+halo falloff
+hand dead zone (ndc)
+hand forward
+hand full stick (ndc)
+hand height
+hand lateral
+head dips onto target
+head end runs brighter
+head end runs hotter
+head glow
+head half-width
+head length
+head radius (m)
+head speed
+head width
+heading lag
+heat
+heat distortion
+heave
+height (m)
+height jitter
+height, floor to flash
+held as glass (s)
+held frozen (s)
+helices
+helix roll (turns/s)
+helix strength
+helix width (px)
+hem light
+hemisphere
+hexagon
+hexagram
+highlight strength
+highlight tightness
+hit flash
+hit light
+hit shake
+hold rumble
+hold time
+holds until
+homing (fraction left/s)
+hot pulses
+hover height
+hover height (m)
+how far it bows
+how far the silk rolls
+how far the strip rolls
+how hard it boils
+how many
+how tight that is
+hub
+hunts for (s)
+idle wobble (rad)
+ignition flash
+ignition pop
+impact flash
+impact intensity
+impact shake
+impact sparks
+impulse
+impulse (m/s)
+in the air (s)
+in the cracks
+in the trail
+inclusions scale
+inner facet lines
+inner facets
+inner liner
+inner rail
+inner wash
+intensity
+interior fill
+interior wash
+interval
+it breathes at
+it crosses at (m/s)
+it lasts
+its depth
+joint radius
+key azimuth
+key elevation
+key intensity
+key toward camera
+key: sun \u2192 camera-relative
+key: sun → camera-relative
+kicks within (m)
+kill ring radius (m)
+laid down ahead by (m)
+landing shake
+laps/s
+large (fraction)
+large, x
+lattice glow
+lattice once set
+lattice turns (rad/s)
+lattice width (m)
+launch height (m)
+lead marker
+lean into speed (rad)
+lean into turns
+lean jitter
+lean lag
+lean outward (rad)
+leash (m)
+left behind
+lens streak
+lens tightness
+lies there, seconds
+life (s)
+lifetime
+lift
+lift (m/s²)
+lifted (m/s)
+lifts as it burns (m/s)
+light at the point
+light in the thick of it
+light intensity
+light pool
+light punch
+light radius
+light runs at
+light scattered through
+light through the points
+light through the shadow side
+lights ahead by (m)
+line reach, metres
+lines
+lit at the foot
+lit by the flash
+lit from inside
+lit hem width
+lit side vs shadow side
+lit through where thin
+lit while young
+lob
+lobes
+lock time (s)
+long rays
+long swing (rad/m)
+long-rayed (fraction)
+longest arc (rad)
+longest sliver, x
+lunge lean
+lunge recoil
+lunge settle
+march steps
+mark under it (m)
+max distance
+max pitch
+max range
+melt over (s)
+metalness
+min distance
+min pitch
+min range
+mist starts at
+molten edge (m)
+molten edge glow
+motes/second
+mouth blows open
+mouth dissolves from
+muzzle flame (m)
+muzzle flame streaks
+muzzle flash (m)
+muzzle flash core (m)
+muzzle glow
+muzzle intensity
+muzzle light
+muzzle size
+muzzle width
+nav light size (m)
+nav lights
+no nearer than
+noise frequency
+noise scale
+noise speed
+noise streams back at
+normal strength
+nose ahead of the front (m)
+nose capped off
+nose dips onto target
+nose to rear (m)
+nose wander (rad)
+obsidian foot
+occlusion
+off a clean cone
+off the axis
+off the axis (m)
+on screen for
+one flake lasts
+one lasts
+one puff lasts
+one rises over
+one strand lasts
+opacity
+orbit (of field radius)
+out of the circle
+outer bodies later by (s)
+outer rail
+outline glow
+outline thickness
+over (s)
+owned by the pulse
+packet depth
+painted plumage shows
+pan range
+pan speed
+pieces
+pieces lie for (s)
+pinched at the point
+placement jitter
+plate scale
+plates per metre
+playback rate
+plumage heat
+plume
+point ahead of the front (m)
+point circles
+point light
+point light radius
+point light stutter
+point size
+point to rear (m)
+points at both ends
+points start at
+poison inside
+poison scale
+pool on the floor
+print edge (m)
+print edge glow
+prison radius (m)
+probe in the facets
+proxy grows by
+proxy width (m)
+puff size (m)
+puffs and motes
+pulse
+pulse depth
+pulse every (s)
+pulse intensity
+pulse reach (× radius)
+pulse speed
+pulses along it
+pushed toward the steps
+pyre light radius
+racing charge
+radar sweep
+radial cracks
+radiance exponent
+radiator → palette
+radius
+radius at target (m)
+radius at the flash (m)
+radius at the nose
+radius jitter
+ragged rim
+rail glow
+rail width (m)
+randomness
+range (m)
+range arc
+rate
+ray brightness
+ray length
+ray reach, x
+ray sharpness
+ray spin
+ray thinness
+reach (m)
+reach (of field radius)
+reach (× radius)
+reach back (m)
+reach brightness
+reach width
+read head
+rear radius (m)
+rear scales lift (rad)
+rear scales stand off (m)
+recalls over (s)
+recentre hold
+recoil rock (rad)
+recoil shake
+reflections
+refraction
+relief strength
+respawn delay
+reticle arms
+reticle glow
+reticle size (m)
+ribbons
+ribs around it
+rim
+rim azimuth
+rim dispersion
+rim drags them up
+rim elevation
+rim gain
+rim heat
+rim intensity
+rim light
+rim power
+rim strength
+rim tightness
+ring
+ring (of field radius)
+ring radius
+ring speed
+ring spin
+ring width
+ring/rib strength
+ring/rib width (px)
+rings across it
+rings per second
+rings shed
+rings travel (per second)
+ripple
+ripple bands
+ripple speed
+rise
+rise (m/s)
+rise and dip (m)
+rise overshoot
+rises from (m)
+rises over (s)
+roll (turns/s)
+roll-up
+rolls out at (m/s)
+rosette radius
+rosette spin
+rotor blur
+rotor speed (rev/s)
+roughness
+roughness floor
+rounds
+rounds (alternating guns)
+rows of scales
+run past the head (m)
+run straight (fraction)
+rune opens over
+runs out over (s)
+s speed
+s wave
+satellite orbit (m)
+satellite roll (turns/s)
+satellite turns
+satellite width, x
+saturation
+scale lean (rad)
+scale length, x width
+scale size (m)
+scales around
+scan amount
+scan tile (m)
+scatter bend
+scatter tightness
+scorch spreads over (s)
+screen flash
+screen key
+screen warp
+scroll speed
+seam gap
+seam light
+seams lead by
+seat jitter
+seed comet (m)
+seed embers/s
+seed leaves at (m)
+seed lob (m)
+seed speed
+seed speed (m/s)
+seeps out at (m/s)
+serpents
+settle time
+settles at (m/s)
+settles over (m)
+shader intensity
+shadow bias
+shadow opacity
+shadow softness
+shaft half-width
+shake
+shake decay
+shake duration
+shard height (m)
+shard lean (rad)
+shard ring, x footprint
+sharpness (>1 needle)
+sheath born over (m)
+sheath gain
+sheath lit
+sheath power
+sheath radius, x
+sheath the crystal (fraction)
+shed / s each
+shed ahead by (m)
+sheen
+sheet opacity
+shimmer speed
+shiver speed
+short swing (rad/m)
+shortest arc (rad)
+shred
+shrink starts at
+silhouette rim
+silks
+size
+size (m)
+size spread
+slab depth
+slabs
+sleep threshold
+slenderest, x
+slivers alongside them
+smoke opacity
+smoke/s
+snap overshoot
+snap-out time
+snaps to size over
+snow fall
+snow life (s)
+snow size
+snow/s
+soft fade
+soft fade (m)
+softness
+solver passes
+soot
+span (m)
+sparkles/second
+spars
+speed
+speed (m/s)
+spin
+spin (torque)
+spin-up (s)
+spine height (m)
+spins (turns/s)
+spire height (m)
+spit light
+spit shake
+spits within (rad)
+splinter size
+splinters
+splinters alongside them
+spoke glow
+spoke width (m)
+spokes
+spores thrown up
+spores/s
+spreads at (m/s)
+stain
+stand at (× radius)
+standing lean
+stands at (s)
+stands for (s)
+stands up in (s)
+star rail
+star spin
+star turns (rad/s)
+star width (m)
+start ahead of the front (m)
+start lifting at (s)
+starts at (s)
+steering lag
+stick dead zone
+stick expo
+still lit (fraction)
+stops above the chest (m)
+straight: orbit radius
+straight: wander
+straight: width
+strands
+streak length
+streamer scale
+streamers run back at
+strength
+stretch (tail is slower)
+striation scale
+strike throws harder
+strike: blown off at (m/s)
+strike: drag
+strike: facets fly at (m/s)
+strike: flash
+strike: glare blows open
+strike: gout
+strike: gravity
+strike: it lasts
+strike: point blows open
+strike: proxy grows, x
+strike: puff size (m)
+strike: ring
+strike: ring lasts
+strike: ring runs at (m/s)
+strike: ring width
+strike: size (m)
+strike: they last
+strike: thrown
+strike: thrown at (m/s)
+strike: tumble (turns/s)
+strobe (flashes/s)
+stroke weight
+strokes kept
+stutter
+stutter scale
+stutter speed
+sun highlight
+sunk into the floor
+surface veils the inside
+sweep (rev/s)
+sweep speed
+sweep-out time
+swell on charge
+swells by, x
+swing (rad/m)
+swing lag
+swirl
+swirl scale
+swirl speed
+taper curve
+target height
+targets per shot
+tears apart over
+tears from back to (m)
+tears into puffs
+temperature
+that flash lasts
+that light
+thaws over (s)
+the bird
+the glass ball
+the lens
+the light breathes
+the nose
+the point runs hotter
+the pyre
+they shiver
+thickness
+thin at the tail, x
+thins before it breaks
+thins from (of height)
+thins toward the tail
+thins toward tip
+throttle lag
+thrown at (m/s)
+thrown by the strike
+thrown off axis (m)
+thrown on the cast
+thrown up (m/s)
+throws/second each
+tick count
+tick duty
+tick length
+tick length (m)
+tick spin
+tick spin (rev/s)
+tick width
+ticks
+tile size (m)
+tilt (rad)
+time scale
+tint toward floor
+tip curl
+tip frost
+tip rosette
+tip taper
+tongues climb (m/s)
+top leans out
+top speed (m/s)
+torque
+torso stiffness
+tracer length (m)
+tracer speed (m/s)
+tracer width (m)
+trail (of a lap)
+trailing mouth radius (m)
+trapped air
+tread dust (particles/s)
+tread dust size
+tremor (m)
+tumble (rad/s)
+tumble (turns/s)
+turbulence
+turbulence scale
+turn (fraction left/s)
+turn follow
+turn-onto lag
+turns (turns/s)
+turns each makes
+turns over the span
+twin rail
+twinkle
+twinkle speed
+twist
+twist speed
+twists over the span
+vapour puffs/s
+vein of light
+vein width
+venom light in it
+vertical half of the bow
+vertical wander
+vignette
+violet takes over / second
+violet through the shadow
+wake (m)
+wake heat
+wake light
+wake light breath
+wake light radius
+wake light sits back (m)
+wake pinch
+wake swell
+wall shade
+wall wander
+wander (m)
+wander scale
+wander speed
+warmup
+wash falloff
+wash grain
+wave depth
+wave packets
+waves/s
+waves/second
+what is left fades over
+where it is fattest
+white nose reaches
+white point
+width (m)
+width at the tail
+width when edge-on
+wingspan (m)
+wisps
+withdraw over
+wobble (rad)
+wobble scale
+wobble speed
+zoom speed

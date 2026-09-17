@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0a0e14" />
+    <title>엘리멘탈 샌드박스 — 휴대전화 카메라</title>
+    <!--
+      The phone end of "use my phone as the camera". Opened by scanning the
+      QR code in the sandbox's camera panel; streams this phone's camera to
+      the desktop over WebRTC. Dev server only — it is not a build input and
+      does not ship. See tools/vite-plugin-phone-camera.js.
+    -->
+    <link rel="stylesheet" href="./src/phone/phone.css" />
+  </head>
+  <body>
+    <main class="phone" data-phone>
+      <header class="phone__head">
+        <h1 class="phone__title">엘리멘탈 샌드박스</h1>
+        <p class="phone__sub">이 휴대전화가 카메라입니다</p>
+      </header>
+
+      <div class="phone__frame" data-frame>
+        <video class="phone__video" data-video autoplay muted playsinline></video>
+        <div class="phone__badge" data-badge>대기 중</div>
+      </div>
+
+      <p class="phone__status" data-status>확인 중…</p>
+
+      <div class="phone__controls">
+        <button type="button" class="phone__btn phone__btn--primary" data-start>카메라 시작</button>
+        <button type="button" class="phone__btn" data-flip hidden>카메라 전환</button>
+        <button type="button" class="phone__btn phone__btn--stop" data-stop hidden>정지</button>
+      </div>
+
+      <ul class="phone__tips">
+        <li>웹캠이 있을 법한 위치에 휴대전화를 세워 주세요.</li>
+        <li>이 페이지를 열어 두세요 — 나가면 카메라가 꺼집니다.</li>
+        <li>두 기기가 같은 와이파이에 있어야 합니다.</li>
+      </ul>
+
+      <footer class="phone__foot">
+        로컬 네트워크 전용입니다. 영상은 이 휴대전화에서 PC로 직결되고,
+        개발 서버는 연결 과정만 중계합니다. 백엔드는 없습니다 — 배포 빌드에는
+        별도 서버가 필요합니다.
+      </footer>
+    </main>
+
+    <script type="module" src="./src/phone/main.js"></script>
+  </body>
+</html>

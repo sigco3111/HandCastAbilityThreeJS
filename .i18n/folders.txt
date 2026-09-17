@@ -1,0 +1,136 @@
+1 · ... and the beam down its axis
+1 · Crystalline barrier mesh
+1 · Ice cylinder mesh
+1 · The conical mesh trail
+1 · The ground rune
+1 · The phoenix
+1 · The shadow core: the lance
+1 · The subsurface ice mesh
+2 · ... and the silks
+2 · Frost particles
+2 · Poison gas miasma
+2 · The crystal shards
+2 · The fluid blood splatter
+2 · The fluid frost vapour
+2 · The particle debris
+2 · The serpentine fire trails
+2 · What the stone is made of
+3 · Ground ice decal
+3 · Ground rupture decal
+3 · The chaotic energy ribbons
+3 · The ordered frost lattice
+3 · The radial water splash
+3 · The shadow ribbon trails
+3 · The wispy flame waves
+4 · Cold air mist
+4 · Radial shockwave ring
+4 · The dark mist tendrils
+4 · The energy sparks
+4 · The glinting ice shards
+4 · The glinting sparkles
+4 · The ground scorch
+5 · Rising shards
+5 · The distortion wave
+5 · The floating embers
+5 · The glow flash
+5 · The refractive distortion
+6 · Ambient glow
+6 · The corrupted droplets
+6 · The lingering crimson motes
+6 · The lingering shadow motes
+6 · The sub-surface glow
+7 · The beam
+7 · The beam itself
+7 · What the light burns
+At the foot of the wall
+Backdrop, fog & dust
+Camera
+Casting
+Character
+Corpse & respawn
+Dynamic light
+Edge panning
+Energy & frost
+Environment
+Flight & control
+Global
+How the black glass is lit
+How the ice is lit
+In the air
+Lighting & impact
+Lunge
+Particles
+Post processing
+Presets
+Rendering
+Rim light
+Rings & rosette
+Silhouette (metres)
+Stage floor
+Target dummies
+Targeting
+The airframe
+The balance
+The blow
+The bodies turned to glass
+The body light
+The boundary (metres)
+The burst
+The cast
+The chassis
+The comet
+The conversion
+The crystal
+The dissolve
+The drive
+The embers
+The eruption
+The fall
+The fire it is made of
+The flight
+The flight path
+The freeze
+The frozen bodies
+The glass
+The glass on the body
+The headlamp
+The hit
+The hover
+The hunt
+The ice
+The ice on the body
+The interior
+The kick it lands
+The landing
+The lattice
+The light
+The look
+The melt
+The poison inside
+The range ring
+The reach ring
+The searchlight
+The sequence
+The shatter
+The spores
+The stone
+The strike, camera & light
+The strike, camera & lights
+The summon
+The talons
+The venom in it
+The volley
+Throw, ignition & hold
+Ticks, sweep & reticle
+Where they stand
+◎  Far-cast circle
+◎  Monowheel Bot
+☣️  Toxic Shield
+✈  Sentinel Drone
+✦  Corrupted Shard
+✦  Shimmering Flux
+❄️  Glacial Prison
+❆  Glacial Shard Storm
+➤  Aim indicator
+🔥  Serpent Tide Field
+🗡  Void Slash

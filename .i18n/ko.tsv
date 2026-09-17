@@ -1,0 +1,462 @@
+.i18n/folders.txt:1:1 · ... and the beam down its axis	1 · 축을 관통하는 빔
+.i18n/folders.txt:2:1 · Crystalline barrier mesh	1 · 결정 방벽 메시
+.i18n/folders.txt:3:1 · Ice cylinder mesh	1 · 얼음 기둥 메시
+.i18n/folders.txt:4:1 · The conical mesh trail	1 · 원뿔형 메시 궤적
+.i18n/folders.txt:5:1 · The ground rune	1 · 지면 룬
+.i18n/folders.txt:6:1 · The phoenix	1 · 불사조
+.i18n/folders.txt:7:1 · The shadow core: the lance	1 · 그림자 핵: 창
+.i18n/folders.txt:8:1 · The subsurface ice mesh	1 · 얼음 내부 메시
+.i18n/folders.txt:9:2 · ... and the silks	2 · 잔결 실크
+.i18n/folders.txt:10:2 · Frost particles	2 · 서리 입자
+.i18n/folders.txt:11:2 · Poison gas miasma	2 · 독가스 장막
+.i18n/folders.txt:12:2 · The crystal shards	2 · 결정 파편
+.i18n/folders.txt:13:2 · The fluid blood splatter	2 · 핏방울 유체
+.i18n/folders.txt:14:2 · The fluid frost vapour	2 · 서리 증기 유체
+.i18n/folders.txt:15:2 · The particle debris	2 · 입자 잔해
+.i18n/folders.txt:16:2 · The serpentine fire trails	2 · 뱀 행렬 화염 궤적
+.i18n/folders.txt:17:2 · What the stone is made of	2 · 석재 구성
+.i18n/folders.txt:18:3 · Ground ice decal	3 · 지면 얼음 데칼
+.i18n/folders.txt:19:3 · Ground rupture decal	3 · 지면 균열 데칼
+.i18n/folders.txt:20:3 · The chaotic energy ribbons	3 · 혼돈 에너지 리본
+.i18n/folders.txt:21:3 · The ordered frost lattice	3 · 정연한 서리 격자
+.i18n/folders.txt:22:3 · The radial water splash	3 · 방사형 물보라
+.i18n/folders.txt:23:3 · The shadow ribbon trails	3 · 그림자 리본 궤적
+.i18n/folders.txt:24:3 · The wispy flame waves	3 · 엷은 화염 파동
+.i18n/folders.txt:25:4 · Cold air mist	4 · 냉기 안개
+.i18n/folders.txt:26:4 · Radial shockwave ring	4 · 방사형 충격파 링
+.i18n/folders.txt:27:4 · The dark mist tendrils	4 · 어둠 안개 촉수
+.i18n/folders.txt:28:4 · The energy sparks	4 · 에너지 불꽃
+.i18n/folders.txt:29:4 · The glinting ice shards	4 · 반짝이는 얼음 파편
+.i18n/folders.txt:30:4 · The glinting sparkles	4 · 반짝이 불티
+.i18n/folders.txt:31:4 · The ground scorch	4 · 지면 그을음
+.i18n/folders.txt:32:5 · Rising shards	5 · 솟구치는 파편
+.i18n/folders.txt:33:5 · The distortion wave	5 · 왜곡 파동
+.i18n/folders.txt:34:5 · The floating embers	5 · 떠다니는 불씨
+.i18n/folders.txt:35:5 · The glow flash	5 · 섬광
+.i18n/folders.txt:36:5 · The refractive distortion	5 · 굴절 왜곡
+.i18n/folders.txt:37:6 · Ambient glow	6 · 환경 광택
+.i18n/folders.txt:38:6 · The corrupted droplets	6 · 타락한 물방울
+.i18n/folders.txt:39:6 · The lingering crimson motes	6 · 잔류하는 진홍 티끌
+.i18n/folders.txt:40:6 · The lingering shadow motes	6 · 잔류하는 그림자 티끌
+.i18n/folders.txt:41:6 · The sub-surface glow	6 · 내부 발광
+.i18n/folders.txt:42:7 · The beam	7 · 빔
+.i18n/folders.txt:43:7 · The beam itself	7 · 빔 본체
+.i18n/folders.txt:44:7 · What the light burns	7 · 빛이 태우는 것
+.i18n/folders.txt:45:At the foot of the wall	벽 밑단
+.i18n/folders.txt:46:Backdrop, fog & dust	배경·안개·먼지
+.i18n/folders.txt:47:Camera	카메라
+.i18n/folders.txt:48:Casting	시전
+.i18n/folders.txt:49:Character	캐릭터
+.i18n/folders.txt:50:Corpse & respawn	시체·리스폰
+.i18n/folders.txt:51:Dynamic light	동적 조명
+.i18n/folders.txt:52:Edge panning	가장자리 패닝
+.i18n/folders.txt:53:Energy & frost	에너지·서리
+.i18n/folders.txt:54:Environment	환경
+.i18n/folders.txt:55:Flight & control	비행·조작
+.i18n/folders.txt:56:Global	전역
+.i18n/folders.txt:57:How the black glass is lit	흑유리 조명 방식
+.i18n/folders.txt:58:How the ice is lit	얼음 조명 방식
+.i18n/folders.txt:59:In the air	공중
+.i18n/folders.txt:60:Lighting & impact	조명·충격
+.i18n/folders.txt:61:Lunge	돌진
+.i18n/folders.txt:62:Particles	입자
+.i18n/folders.txt:63:Post processing	후처리
+.i18n/folders.txt:64:Presets	프리셋
+.i18n/folders.txt:65:Rendering	렌더링
+.i18n/folders.txt:66:Rim light	림 라이트
+.i18n/folders.txt:67:Rings & rosette	링·로제트
+.i18n/folders.txt:68:Silhouette (metres)	외형 (미터)
+.i18n/folders.txt:69:Stage floor	무대 바닥
+.i18n/folders.txt:70:Target dummies	표적 더미
+.i18n/folders.txt:71:Targeting	조준
+.i18n/folders.txt:72:The airframe	기체
+.i18n/folders.txt:73:The balance	균형
+.i18n/folders.txt:74:The blow	타격
+.i18n/folders.txt:75:The bodies turned to glass	유리화된 신체
+.i18n/folders.txt:76:The body light	신체 조명
+.i18n/folders.txt:77:The boundary (metres)	경계 (미터)
+.i18n/folders.txt:78:The burst	폭발
+.i18n/folders.txt:79:The cast	시전
+.i18n/folders.txt:80:The chassis	섀시
+.i18n/folders.txt:81:The comet	혜성
+.i18n/folders.txt:82:The conversion	변환
+.i18n/folders.txt:83:The crystal	결정
+.i18n/folders.txt:84:The dissolve	소멸
+.i18n/folders.txt:85:The drive	구동
+.i18n/folders.txt:86:The embers	불씨
+.i18n/folders.txt:87:The eruption	분출
+.i18n/folders.txt:88:The fall	낙하
+.i18n/folders.txt:89:The fire it is made of	몸을 이루는 불
+.i18n/folders.txt:90:The flight	비행
+.i18n/folders.txt:91:The flight path	비행 경로
+.i18n/folders.txt:92:The freeze	동결
+.i18n/folders.txt:93:The frozen bodies	빙결된 신체
+.i18n/folders.txt:94:The glass	유리
+.i18n/folders.txt:95:The glass on the body	신체의 유리
+.i18n/folders.txt:96:The headlamp	전조등
+.i18n/folders.txt:97:The hit	피격
+.i18n/folders.txt:98:The hover	호버링
+.i18n/folders.txt:99:The hunt	수색
+.i18n/folders.txt:100:The ice	얼음
+.i18n/folders.txt:101:The ice on the body	신체의 얼음
+.i18n/folders.txt:102:The interior	내부
+.i18n/folders.txt:103:The kick it lands	착지 충격
+.i18n/folders.txt:104:The landing	착륙
+.i18n/folders.txt:105:The lattice	격자
+.i18n/folders.txt:106:The light	조명
+.i18n/folders.txt:107:The look	외관
+.i18n/folders.txt:108:The melt	융해
+.i18n/folders.txt:109:The poison inside	내부의 독
+.i18n/folders.txt:110:The range ring	사거리 링
+.i18n/folders.txt:111:The reach ring	도달 링
+.i18n/folders.txt:112:The searchlight	서치라이트
+.i18n/folders.txt:113:The sequence	순서
+.i18n/folders.txt:114:The shatter	파쇄
+.i18n/folders.txt:115:The spores	포자
+.i18n/folders.txt:116:The stone	석재
+.i18n/folders.txt:117:The strike, camera & light	타격·카메라·조명
+.i18n/folders.txt:118:The strike, camera & lights	타격·카메라·조명
+.i18n/folders.txt:119:The summon	소환
+.i18n/folders.txt:120:The talons	발톱
+.i18n/folders.txt:121:The venom in it	내부의 맹독
+.i18n/folders.txt:122:The volley	일제 사격
+.i18n/folders.txt:123:Throw, ignition & hold	투척·점화·유지
+.i18n/folders.txt:124:Ticks, sweep & reticle	눈금·소인·조준선
+.i18n/folders.txt:125:Where they stand	서 있는 위치
+.i18n/folders.txt:126:◎  Far-cast circle	◎  원거리 시전 원
+.i18n/folders.txt:127:◎  Monowheel Bot	◎  외륜 봇
+.i18n/folders.txt:128:☣️  Toxic Shield	☣️  맹독 방벽
+.i18n/folders.txt:129:✈  Sentinel Drone	✈  감시 드론
+.i18n/folders.txt:130:✦  Corrupted Shard	✦  타락한 파편
+.i18n/folders.txt:131:✦  Shimmering Flux	✦  혼돈의 떨림
+.i18n/folders.txt:132:❄️  Glacial Prison	❄️  빙결 감옥
+.i18n/folders.txt:133:❆  Glacial Shard Storm	❆  빙결 파편 폭풍
+.i18n/folders.txt:134:➤  Aim indicator	➤  조준 표시기
+.i18n/folders.txt:135:🔥  Serpent Tide Field	🔥  뱀불결계
+.i18n/folders.txt:136:🗡  Void Slash	🗡  공허 베기
+.i18n/names.txt:1:Clear effects (C)	이펙트 지우기 (C)
+.i18n/names.txt:2:Delete	삭제
+.i18n/names.txt:3:Duplicate	복제
+.i18n/names.txt:4:Export all presets	전체 프리셋 내보내기
+.i18n/names.txt:5:Export current (JSON)	현재 설정 내보내기 (JSON)
+.i18n/names.txt:6:Import JSON…	JSON 가져오기…
+.i18n/names.txt:7:Load preset	프리셋 불러오기
+.i18n/names.txt:8:Reset to defaults	기본값으로 초기화
+.i18n/names.txt:9:Save preset	프리셋 저장
+.i18n/names.txt:10:abilities kill	능력 강제 종료
+.i18n/names.txt:11:ambient colour	주변광 색
+.i18n/names.txt:12:backdrop	배경
+.i18n/names.txt:13:beam flash	빔 섬광
+.i18n/names.txt:14:bird light colour	조류 광원 색
+.i18n/names.txt:15:birth	생성
+.i18n/names.txt:16:body	본체
+.i18n/names.txt:17:bright motes	밝은 티끌
+.i18n/names.txt:18:bruise	멍
+.i18n/names.txt:19:burn edge	연소 가장자리
+.i18n/names.txt:20:burn line	연소 선
+.i18n/names.txt:21:burns bodies out	신체 소각
+.i18n/names.txt:22:burnt flesh	탄 살점
+.i18n/names.txt:23:burnt rim	탄 가장자리
+.i18n/names.txt:24:cast animation	시전 동작
+.i18n/names.txt:25:caster watches it	시전자가 주시
+.i18n/names.txt:26:char	캐릭터
+.i18n/names.txt:27:charge	충전
+.i18n/names.txt:28:cold light	냉광
+.i18n/names.txt:29:colour	색상
+.i18n/names.txt:30:comes away as	떨어져 나감
+.i18n/names.txt:31:core	핵
+.i18n/names.txt:32:core colour	핵 색상
+.i18n/names.txt:33:corruption	타락
+.i18n/names.txt:34:counter-rotate	역회전
+.i18n/names.txt:35:crest	볏
+.i18n/names.txt:36:crimson strands	진홍 가닥
+.i18n/names.txt:37:crystal light colour	결정 광원 색
+.i18n/names.txt:38:death	소멸
+.i18n/names.txt:39:deep	심층
+.i18n/names.txt:40:deep body	심층 본체
+.i18n/names.txt:41:deep water	심층수
+.i18n/names.txt:42:early	초기
+.i18n/names.txt:43:edge	가장자리
+.i18n/names.txt:44:edge colour	가장자리 색
+.i18n/names.txt:45:edges & rim	가장자리·외곽
+.i18n/names.txt:46:eject casings	탄피 배출
+.i18n/names.txt:47:ember	불씨
+.i18n/names.txt:48:ember colour	불씨 색
+.i18n/names.txt:49:enabled	활성화
+.i18n/names.txt:50:facing away	외면
+.i18n/names.txt:51:facing the key	키라이트 주시
+.i18n/names.txt:52:fallback dark	대체 어둠색
+.i18n/names.txt:53:fallback light	대체 밝은색
+.i18n/names.txt:54:fill colour	채우기 색
+.i18n/names.txt:55:fires	발사
+.i18n/names.txt:56:flash	섬광
+.i18n/names.txt:57:floor colour	바닥 색
+.i18n/names.txt:58:floor mark	바닥 자국
+.i18n/names.txt:59:floor mark edge	바닥 자국 가장자리
+.i18n/names.txt:60:floor tint	바닥 색조
+.i18n/names.txt:61:fog colour	안개 색
+.i18n/names.txt:62:fog enabled	안개 활성화
+.i18n/names.txt:63:front lamps	전면 램프
+.i18n/names.txt:64:frost	서리
+.i18n/names.txt:65:frost & edges	서리·가장자리
+.i18n/names.txt:66:glass	유리
+.i18n/names.txt:67:glint core	반짝이 핵
+.i18n/names.txt:68:glint rays	반짝이 광선
+.i18n/names.txt:69:glyphs	문양
+.i18n/names.txt:70:grade colour	색보정
+.i18n/names.txt:71:halo	후광
+.i18n/names.txt:72:hem	자락
+.i18n/names.txt:73:hemi bounce	반구 반사광
+.i18n/names.txt:74:hemi sky	반구 하늘빛
+.i18n/names.txt:75:hunting	수색
+.i18n/names.txt:76:ice	얼음
+.i18n/names.txt:77:in shadow	그림자 속
+.i18n/names.txt:78:inner	내부
+.i18n/names.txt:79:inner wash	내부 세광
+.i18n/names.txt:80:key colour	키라이트 색
+.i18n/names.txt:81:late	말기
+.i18n/names.txt:82:lattice	격자
+.i18n/names.txt:83:light colour	조명 색
+.i18n/names.txt:84:light in it	내부의 빛
+.i18n/names.txt:85:light inside	내부 조명
+.i18n/names.txt:86:line core	선 핵
+.i18n/names.txt:87:lines	선
+.i18n/names.txt:88:lit	발광
+.i18n/names.txt:89:lit inside	내부 발광
+.i18n/names.txt:90:lit side	발광면
+.i18n/names.txt:91:lit through	투과 발광
+.i18n/names.txt:92:locked	고정
+.i18n/names.txt:93:locking	고정 중
+.i18n/names.txt:94:mid	중간
+.i18n/names.txt:95:mouth	입구
+.i18n/names.txt:96:name	이름
+.i18n/names.txt:97:nose	선단
+.i18n/names.txt:98:obsidian foot	흑요석 발판
+.i18n/names.txt:99:opening front	전면 개구부
+.i18n/names.txt:100:point	지점
+.i18n/names.txt:101:point light colour	점광원 색
+.i18n/names.txt:102:preset	프리셋
+.i18n/names.txt:103:print edge colour	발자국 가장자리 색
+.i18n/names.txt:104:rays	광선
+.i18n/names.txt:105:rear lamps	후면 램프
+.i18n/names.txt:106:release flash	방출 섬광
+.i18n/names.txt:107:rim	외곽
+.i18n/names.txt:108:rim colour	외곽 색
+.i18n/names.txt:109:rose strands	장미빛 가닥
+.i18n/names.txt:110:scorch the floor	바닥 그을리기
+.i18n/names.txt:111:scorches under the body	신체 하부 그을음
+.i18n/names.txt:112:shadow	그림자
+.i18n/names.txt:113:shadow side	그림자면
+.i18n/names.txt:114:sheath	외피
+.i18n/names.txt:115:shell core	껍질 핵
+.i18n/names.txt:116:shell inner	껍질 내부
+.i18n/names.txt:117:shell mid	껍질 중간
+.i18n/names.txt:118:sparks	불꽃
+.i18n/names.txt:119:stain colour	얼룩 색
+.i18n/names.txt:120:stone tile	석재 타일
+.i18n/names.txt:121:streak	줄무늬
+.i18n/names.txt:122:tail	꼬리
+.i18n/names.txt:123:the light in it	내부의 빛
+.i18n/names.txt:124:the point	지점
+.i18n/names.txt:125:tip frost	끝단 서리
+.i18n/names.txt:126:too-close colour	근접 경고 색
+.i18n/names.txt:127:tracer	예광탄
+.i18n/names.txt:128:tracer tail	예광탄 꼬리
+.i18n/names.txt:129:turn to aim	조준 방향 회전
+.i18n/names.txt:130:turn to watch	주시 방향 회전
+.i18n/names.txt:131:venom light	맹독 광원
+.i18n/names.txt:132:violet	보라
+.i18n/names.txt:133:wake light colour	궤적 광원 색
+.i18n/names.txt:134:watching	주시 중
+.i18n/names.txt:135:water	물
+.i18n/names.txt:136:wet highlight	젖은 반사광
+src/config/settings.js:2656:label: Shimmering Flux	혼돈의 떨림
+src/config/settings.js:2659:hint: Shimmering Flux of Chaos	혼돈의 떨림
+src/config/settings.js:2662:label: Void Slash	공허 베기
+src/config/settings.js:2665:hint: Linear Void Slash — an obsidian lance with a wake of shadow	직선형 공허 베기 — 그림자 궤적을 남기는 흑요석 창
+src/config/settings.js:2668:label: Glacial Shard Storm	빙결 파편 폭풍
+src/config/settings.js:2671:hint: Glacial Shard Storm — a crystal of ice with a wake of frost	빙결 파편 폭풍 — 서리 궤적을 남기는 얼음 결정
+src/config/settings.js:2673:label: Corrupted Shard	타락한 파편
+src/config/settings.js:2677:hint: Corrupted Shard Spawn — a light that fires back	타락한 파편 생성 — 반격하는 빛
+src/config/settings.js:2681:label: Glacial Prison	빙결 감옥
+src/config/settings.js:2684:hint: Glacial Prison — freezes what stands in it, then shatters it	빙결 감옥 — 안에 선 것을 얼린 뒤 산산조각 냄
+src/config/settings.js:2688:label: Toxic Shield	맹독 방벽
+src/config/settings.js:2691:hint: Toxic Shield of Conquest — turns what stands in it to glass, then shatters it	정복의 맹독 방벽 — 안에 선 것을 유리로 만든 뒤 산산조각 냄
+src/config/settings.js:2695:label: Serpent Tide Field	뱀불결계
+src/config/settings.js:2698:hint: Serpent Tide Field — a phoenix that hunts	뱀불결계 — 사냥하는 불사조
+src/config/settings.js:2702:label: Monowheel Bot	외륜 봇
+src/config/settings.js:2705:hint: Monowheel Army Bot — toggle to deploy	외륜 아미 봇 — 토글로 배치
+src/config/settings.js:2710:label: Sentinel Drone	감시 드론
+src/config/settings.js:2713:hint: Sentinel Drone — toggle to deploy	감시 드론 — 토글로 배치
+src/ui/HUD.js:34:Elemental Sandbox	엘리멘탈 샌드박스
+src/ui/HUD.js:35:Press Q, E, R, V, B, Z or N, aim, click to cast. F deploys the drone, X the bot.	Q, E, R, V, B, Z 또는 N을 누르고 조준 뒤 클릭으로 시전. F는 드론, X는 봇 배치.
+src/ui/HUD.js:39:FPS	FPS
+src/ui/HUD.js:40:Particles	파티클
+src/ui/HUD.js:41:Instances	인스턴스
+src/ui/HUD.js:42:Draw calls	드로우 콜
+src/ui/HUD.js:46:Q — Shimmering Flux of Chaos / E — Linear Void Slash	Q — 혼돈의 떨림 / E — 직선형 공허 베기
+src/ui/HUD.js:47:R — Glacial Shard Storm	R — 빙결 파편 폭풍
+src/ui/HUD.js:48:X — Corrupted Shard Spawn / B — Glacial Prison	X — 타락한 파편 생성 / B — 빙결 감옥
+src/ui/HUD.js:49:Z — Toxic Shield of Conquest / F — Serpent Tide Field	Z — 정복의 맹독 방벽 / F — 뱀불결계
+src/ui/HUD.js:50:V — Monowheel Bot (toggle) / Y — Sentinel Drone (toggle)	V — 외륜 봇 (토글) / Y — 감시 드론 (토글)
+src/ui/HUD.js:51:Q, E and R are line casts — aimed with an arrow. X, B, Z and F are far casts — aimed with a circle.	Q, E, R은 직선 시전 — 화살표로 조준. X, B, Z, F는 원거리 시전 — 원으로 조준.
+src/ui/HUD.js:52:V and Y are summons: press to deploy, press again to recall. Drive with the stick or WASD, hold Space or click to fire. Nothing else casts while one is up.	V와 Y는 소환: 눌러서 배치, 다시 눌러서 회수. 스틱이나 WASD로 조종, Space를 누르거나 클릭 유지로 발사. 소환 중에는 다른 시전 불가.
+src/ui/HUD.js:53:The bot is a wheel: it turns to face the stick and drives; locked on, the stick is forward and back.	봇은 바퀴라 스틱 방향으로 회전하며 주행; 고정 시 스틱은 전후진.
+src/ui/HUD.js:54:Move — aim / Left click — cast	이동 — 조준 / 좌클릭 — 시전
+src/ui/HUD.js:55:Esc / right click — cancel the cast	Esc / 우클릭 — 시전 취소
+src/ui/HUD.js:56:Right drag — orbit / Scroll — zoom	우드래그 — 회전 / 스크롤 — 줌
+src/ui/HUD.js:58:G editor / P pause / C clear	G 에디터 / P 일시정지 / C 지우기
+src/ui/HUD.js:60:T reset targets / H hide this	T 표적 초기화 / H 도움말 숨기기
+src/ui/HUD.js:61:M camera mode / J swap hands	M 카메라 모드 / J 손 바꾸기
+src/ui/HUD.js:62:Camera: palm aims, fist casts, point left/right to swap.	카메라: 손바닥 조준, 주먹 시전, 좌우 가리키기로 전환.
+src/ui/HUD.js:63:No webcam? The panel can use your phone's camera instead — scan the code (local network only).	웹캠 없음? 휴대전화 카메라 사용 가능 — 코드 스캔 (로컬 네트워크 전용).
+src/ui/HUD.js:64:Camera + summon: palm off centre drives it, fist holds fire, point to recall.	카메라 + 소환: 중심 벗어난 손바닥이 조종, 주먹이 발사 유지, 가리키기로 회수.
+src/ui/HUD.js:65:Any cast that reaches a target one-shots it.	표적에 닿은 시전은 일격 처치.
+src/ui/HUD.js:66:The Serpent Tide Field picks its own: the phoenix hunts them one at a time.	뱀불결계는 알아서 표적 선정: 불사조가 하나씩 사냥.
+src/ui/HUD.js:67:So does the Corrupted Shard: its light fires a beam at them, then burns them out.	타락한 파편도 마찬가지: 빛이 빔을 쏘아 소각.
+src/ui/HUD.js:68:The Glacial Prison and the Toxic Shield take whoever stands in the circle: frozen or turned to glass, then shattered.	빙결 감옥과 맹독 방벽은 원 안에 선 것을 취함: 동결 또는 유리화 뒤 파쇄.
+src/ui/HUD.js:69:Paused still applies every editor change.	일시정지 중에도 에디터 변경 즉시 적용.
+src/ui/HUD.js:90:Paused	일시정지 중
+src/ui/HUD.js:125:{meta.hint} selected	{힌트} 선택됨
+src/core/App.js:50:SUMMON_NAMES drone: drone / monowheel: bot	드론 / 봇
+src/core/App.js:243:Too close — aim further out	너무 가까움 — 더 멀리 조준
+src/core/App.js:273:Hand tracking engaged — you are driving the {summonName}	손 추적 시작됨 — {소환수} 조종 중
+src/core/App.js:277:Hand tracking engaged	손 추적 시작됨
+src/core/App.js:284:No webcam — use your phone below, or press M to leave	웹캠 없음 — 아래 휴대전화 사용 또는 M으로 나가기
+src/core/App.js:285:No webcam — scan the code with your phone, or press M	웹캠 없음 — 휴대전화로 코드 스캔 또는 M 입력
+src/core/App.js:293:Camera unavailable — keyboard still works	카메라 사용 불가 — 키보드 조작 가능
+src/core/App.js:304:Phone camera connected — open your palm to engage	휴대전화 카메라 연결됨 — 손바닥을 펴서 시작
+src/core/App.js:309:Phone gone — back to the webcam…	휴대전화 연결 끊김 — 웹캠으로 복귀 중…
+src/core/App.js:312:Back on the webcam	웹캠으로 복귀됨
+src/core/App.js:371:Recall the {summonName} first	먼저 {소환수} 회수
+src/core/App.js:397:Not ready	준비 안 됨
+src/core/App.js:420:Effects cleared	이펙트 지워짐
+src/core/App.js:424:Targets reset	표적 초기화됨
+src/core/App.js:433:Aiming with your {aimHand} hand	{손}으로 조준 중
+src/core/App.js:438:Paused — the editor still applies	일시정지됨 — 에디터는 계속 적용
+src/core/App.js:438:Resumed	재개됨
+src/core/App.js:463:Recall the {summonName} first	먼저 {소환수} 회수
+src/core/App.js:467:Not ready	준비 안 됨
+src/core/App.js:515:Recall the {summonName} first	먼저 {소환수} 회수
+src/core/App.js:526:{label} recalled	{능력명} 회수됨
+src/core/App.js:532:Not ready	준비 안 됨
+src/core/App.js:556:{label} deployed — hold fire to engage	{능력명} 배치됨 — 발사 유지로 교전
+src/core/App.js:617:Loading environment…	환경 불러오는 중…
+src/core/App.js:622:Loading floor…	바닥 불러오는 중…
+src/core/App.js:625:Loading character…	캐릭터 불러오는 중…
+src/core/App.js:628:Loading targets…	표적 불러오는 중…
+src/core/App.js:631:Loading the drone…	드론 불러오는 중…
+src/core/App.js:635:Loading the monowheel bot…	외륜 봇 불러오는 중…
+src/core/App.js:639:Waking the phoenix…	불사조 깨우는 중…
+src/core/App.js:648:Ready	준비 완료
+src/core/App.js:702:Compiling {label}…	{능력명} 컴파일 중…
+src/core/App.js:812:Camera mode off	카메라 모드 꺼짐
+src/core/App.js:824:Starting camera…	카메라 시작 중…
+src/core/App.js:828:Open your palm to engage	손바닥을 펴서 시작
+src/core/App.js:1007:Deploying…	배치 중…
+src/core/App.js:1008:Returning	복귀 중
+src/core/App.js:1008:Standing down	철수 중
+src/core/App.js:1011:FIRING	발사 중
+src/core/App.js:1011:Locking…	고정 중…
+src/core/App.js:1012:Acquiring…	포착 중…
+src/core/App.js:1012:Scanning — nothing in range	탐색 중 — 범위 내 표적 없음
+src/core/App.js:1014:On station · {n} in range	배치 완료 · 범위 내 {n}
+src/core/App.js:1014:On station	배치 완료
+src/core/App.js:1020:Fist — firing	주먹 — 발사 중
+src/core/App.js:1021:Flying the drone	드론 비행 중
+src/core/App.js:1021:Driving the bot	봇 주행 중
+src/ui/CameraPanel.js:85:Starting camera…	카메라 시작 중…
+src/ui/CameraPanel.js:268:Hold your palm open to engage	손바닥을 편 상태로 유지
+src/ui/CameraPanel.js:268:Show your casting hand	시전 손 보이기
+src/ui/CameraPanel.js:270:Recalling…	회수 중…
+src/ui/CameraPanel.js:270:Next ability →	다음 능력 →
+src/ui/CameraPanel.js:270:← Previous ability	← 이전 능력
+src/ui/CameraPanel.js:272:Aiming	조준 중
+src/ui/CameraPanel.js:336:other hand	반대손
+src/ui/DroneControls.js:25:DRONE (deck badge)	드론
+src/ui/DroneControls.js:26:Deploying…	배치 중…
+src/ui/DroneControls.js:32:FLY	비행
+src/ui/DroneControls.js:36:FIRE	발사
+src/ui/DroneControls.js:39:WASD {fly/drive} · Space / hold click fire · {key} recall	WASD {비행/주행} · Space/클릭 유지 발사 · {키} 회수
+src/ui/DroneControls.js:39:fly (stick verb)	비행
+src/ui/DroneControls.js:154:drive (stick verb)	주행
+src/ui/DroneControls.js:154:BOT (deck badge)	봇
+src/ui/PhonePairing.js:23:Use your phone as the camera	휴대전화를 카메라로 사용
+src/ui/PhonePairing.js:30:Scan with your phone. It opens a page on this dev server — accept the certificate warning (it is the server's own self-signed cert) and tap Start camera.	휴대전화로 스캔. 개발 서버 페이지가 열림 — 인증서 경고를 수락(자체 서명 인증서) 후 카메라 시작 탭.
+src/ui/PhonePairing.js:34:Copy the address (title)	주소 복사
+src/ui/PhonePairing.js:35:Not this network? Try the next address	이 네트워크가 아님? 다음 주소 시도
+src/ui/PhonePairing.js:39:Back to the webcam	웹캠으로 돌아가기
+src/ui/PhonePairing.js:42:Local network only, for now: the handshake goes through the Vite dev server and the video goes phone → PC directly. A deployed build has no relay — that would need a small signalling backend (and a TURN server off the LAN).	로컬 네트워크 전용: 핸드셰이크는 Vite 개발 서버 경유, 영상은 휴대전화 → PC 직결. 배포 빌드에는 릴레이 없음 — 소규모 시그널링 백엔드(및 LAN 외부 TURN 서버) 필요.
+src/ui/PhonePairing.js:86:Address copied	주소 복사됨
+src/ui/PhonePairing.js:105:The phone camera needs the local dev server — run `npm run dev:lan`. It is a local-only feature for now: a deployed build would need a signalling backend.	휴대전화 카메라는 로컬 개발 서버 필요 — `npm run dev:lan` 실행. 로컬 전용 기능: 배포 빌드에는 시그널링 백엔드 필요.
+src/ui/PhonePairing.js:117:The dev server is only listening on this machine. Restart it with `npm run dev:lan` and reopen this page from the address it prints.	개발 서버가 이 머신에서만 수신 중. `npm run dev:lan`으로 재시작 후 표시된 주소로 이 페이지 다시 열기.
+src/ui/PhonePairing.js:118:Restart the dev server with `npm run dev:lan` — the phone needs HTTPS on your Wi-Fi before its browser will hand over the camera.	`npm run dev:lan`으로 개발 서버 재시작 — 휴대전화 브라우저가 카메라를 넘기려면 Wi-Fi에서 HTTPS 필요.
+src/ui/PhonePairing.js:166:Phone camera · live	휴대전화 카메라 · 연결 중
+src/ui/PhonePairing.js:172:Disconnect — back to the webcam	연결 해제 — 웹캠으로 돌아가기
+src/ui/gestures.js:164:deploys the drone	드론 배치
+src/ui/gestures.js:165:flies the drone; centre holds	드론 비행; 중앙 정지
+src/ui/gestures.js:166:recalls the drone	드론 회수
+src/ui/gestures.js:167:Deployed · you are flying it	배치됨 · 비행 중
+src/ui/gestures.js:170:deploys the bot	봇 배치
+src/ui/gestures.js:171:drives the bot; it faces your palm	봇 주행; 손바닥 방향 주시
+src/ui/gestures.js:172:recalls the bot	봇 회수
+src/ui/gestures.js:173:Deployed · you are driving it	배치됨 · 주행 중
+src/ui/gestures.js:178:deploys it	배치
+src/ui/gestures.js:179:drives it; centre holds	주행; 중앙 정지
+src/ui/gestures.js:180:recalls it	회수
+src/ui/gestures.js:181:Deployed · you are driving it	배치됨 · 주행 중
+src/ui/gestures.js:202:Open palm	손바닥 펴기
+src/ui/gestures.js:202:hold it to engage	유지해서 시작
+src/ui/gestures.js:203:Point sideways	옆으로 가리키기
+src/ui/gestures.js:203:previous / next ability	이전 / 다음 능력
+src/ui/gestures.js:224:Push palm off centre	손바닥을 중심에서 밀기
+src/ui/gestures.js:225:Hold a fist	주먹 유지
+src/ui/gestures.js:225:fires; open it to stop	발사; 펴면 정지
+src/ui/gestures.js:227:Lower hand	손 내리기
+src/ui/gestures.js:227:it holds and stops firing	정지·발사 중단
+src/ui/gestures.js:232:Summon · a fist deploys it	소환 · 주먹으로 배치
+src/ui/gestures.js:233:Close a fist	주먹 쥐기
+src/ui/gestures.js:239:Far cast · aimed with a circle	원거리 시전 · 원으로 조준
+src/ui/gestures.js:242:Move hand	손 움직이기
+src/ui/gestures.js:242:moves the circle	원 이동
+src/ui/gestures.js:243:drops it there	그곳에 투하
+src/ui/gestures.js:245:cancels the cast	시전 취소
+src/ui/gestures.js:251:Line cast · aimed with an arrow	직선 시전 · 화살표로 조준
+src/ui/gestures.js:254:swings the arrow	화살표 회전
+src/ui/gestures.js:255:casts along the arrow	화살표 방향 시전
+src/ui/contact.js:58:Hide the contact card (aria-label)	명함 숨기기
+src/ui/contact.js:69:Available for work	작업 가능
+src/ui/contact.js:70:Chiro	Chiro
+src/ui/contact.js:71:Creative dev — 3D, motion, games	크리에이티브 개발 — 3D·모션·게임
+src/ui/contact.js:76:Every ability, shader and tool in this scene is hand-written. Yours could be too.	이 장면의 모든 능력·셰이더·도구는 수제. 의뢰 가능.
+src/ui/contact.js:80:Work in motion, daily	매일 움직이는 작업물
+src/ui/contact.js:81:Portfolio & contact	포트폴리오·연락처
+src/ui/contact.js:141:Show the contact card (aria-label)	명함 보이기
+src/ui/contact.js:143:Work with me / Hide (title)	함께 작업하기 / 숨기기
+src/ui/TargetBoxes.js:114:DOWN	격추
+src/ui/TargetBoxes.js:133:FIRING	발사 중
+src/ui/TargetBoxes.js:136:LOCK {nn}%	고정 {nn}%
+src/ui/TargetBoxes.js:140:TARGET	표적
+index.html:6:Elemental Sandbox — Procedural Ability VFX Playground	엘리멘탈 샌드박스 — 절차적 능력 VFX 놀이터
+index.html:27:Elemental Sandbox (loader title)	엘리멘탈 샌드박스
+index.html:29:Growing the crystals…	결정 키우는 중…
+src/ui/Editor.js:28:VFX Editor (GUI title)	VFX 에디터
+src/ui/Editor.js:31:My preset	내 프리셋
+src/ui/Editor.js:74:cast animation	시전 동작
+src/ui/Editor.js:147:Saved preset "{name}"	프리셋 "{이름}" 저장됨
+src/ui/Editor.js:160:Loaded "{selected}"	"{이름}" 불러와짐
+src/ui/Editor.js:176:Duplicated to "{copy}"	"{이름}"로 복제됨
+src/ui/Editor.js:190:Preset deleted	프리셋 삭제됨
+src/ui/Editor.js:210:Settings imported	설정 가져와짐
+src/ui/Editor.js:212:Imported {n} preset(s)	프리셋 {n}개 가져와짐
+src/ui/Editor.js:213:Nothing imported	가져온 것 없음
+src/ui/Editor.js:227:Reset to defaults	기본값으로 초기화됨
+src/ui/Editor.js:508:droplet gradient	물방울 그라데이션
+src/ui/Editor.js:563:sparkle gradient	불티 그라데이션
+src/ui/Editor.js:598:mote gradient	티끌 그라데이션
+src/ui/Editor.js:1771:Droplet gradient	물방울 그라데이션
+src/ui/Editor.js:1785:Mist gradient	안개 그라데이션
+src/ui/Editor.js:1826:Bead gradient	구슬 그라데이션
+src/ui/Editor.js:1827:Glint gradient	반짝이 그라데이션
+src/ui/Editor.js:2012:Mist gradient	안개 그라데이션
+src/ui/Editor.js:2167:Gas gradient	가스 그라데이션

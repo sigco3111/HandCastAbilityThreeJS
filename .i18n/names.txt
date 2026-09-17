@@ -1,0 +1,136 @@
+Clear effects (C)
+Delete
+Duplicate
+Export all presets
+Export current (JSON)
+Import JSON…
+Load preset
+Reset to defaults
+Save preset
+abilities kill
+ambient colour
+backdrop
+beam flash
+bird light colour
+birth
+body
+bright motes
+bruise
+burn edge
+burn line
+burns bodies out
+burnt flesh
+burnt rim
+cast animation
+caster watches it
+char
+charge
+cold light
+colour
+comes away as
+core
+core colour
+corruption
+counter-rotate
+crest
+crimson strands
+crystal light colour
+death
+deep
+deep body
+deep water
+early
+edge
+edge colour
+edges & rim
+eject casings
+ember
+ember colour
+enabled
+facing away
+facing the key
+fallback dark
+fallback light
+fill colour
+fires
+flash
+floor colour
+floor mark
+floor mark edge
+floor tint
+fog colour
+fog enabled
+front lamps
+frost
+frost & edges
+glass
+glint core
+glint rays
+glyphs
+grade colour
+halo
+hem
+hemi bounce
+hemi sky
+hunting
+ice
+in shadow
+inner
+inner wash
+key colour
+late
+lattice
+light colour
+light in it
+light inside
+line core
+lines
+lit
+lit inside
+lit side
+lit through
+locked
+locking
+mid
+mouth
+name
+nose
+obsidian foot
+opening front
+point
+point light colour
+preset
+print edge colour
+rays
+rear lamps
+release flash
+rim
+rim colour
+rose strands
+scorch the floor
+scorches under the body
+shadow
+shadow side
+sheath
+shell core
+shell inner
+shell mid
+sparks
+stain colour
+stone tile
+streak
+tail
+the light in it
+the point
+tip frost
+too-close colour
+tracer
+tracer tail
+turn to aim
+turn to watch
+venom light
+violet
+wake light colour
+watching
+water
+wet highlight
